@@ -1,0 +1,82 @@
+[
+  {
+    "joueur1": "Robin",
+    "joueur2": "Damien",
+    "categorie": "E"
+  },
+  {
+    "joueur1": "Denis",
+    "joueur2": "Robin",
+    "categorie": "E"
+  },
+  {
+    "joueur1": "Ugur",
+    "joueur2": "Robin",
+    "categorie": "E"
+  },
+  {
+    "joueur1": "Damien",
+    "joueur2": "Denis",
+    "categorie": "E"
+  },
+  {
+    "joueur1": "AlexisP",
+    "joueur2": "Robin",
+    "categorie": "E"
+  },
+  {
+    "joueur1": "Giusseppe",
+    "joueur2": "Winona",
+    "categorie": "D"
+  },
+  {
+    "joueur1": "Jérémy",
+    "joueur2": "Marvin",
+    "categorie": "C"
+  },
+  {
+    "joueur1": "Jérémy",
+    "joueur2": "Mathias",
+    "categorie": "C"
+  },
+  {
+    "joueur1": "Otman",
+    "joueur2": "Marvin",
+    "categorie": "C"
+  },
+  {
+    "joueur1": "Thomas",
+    "joueur2": "Noé",
+    "categorie": "B"
+  },
+  {
+    "joueur1": "Maoro",
+    "joueur2": "Tess",
+    "categorie": "B"
+  },
+  {
+    "joueur1": "Tess",
+    "joueur2": "Thomas",
+    "categorie": "B"
+  },
+  {
+    "joueur1": "AlexisD",
+    "joueur2": "Nico",
+    "categorie": "A"
+  },
+  {
+    "joueur1": "Aurélien",
+    "joueur2": "Joshua",
+    "categorie": "A"
+  },
+  {
+    "joueur1": "AlexisD",
+    "joueur2": "Joshua",
+    "categorie": "A"
+  },
+  {
+    "joueur1": "Aurélien",
+    "joueur2": "Nico",
+    "categorie": "A"
+  }
+]
